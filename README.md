@@ -5,6 +5,8 @@
 
 <p>We used the Keras LSTM model with (128, 64, 32) layers. After the 14th epoch, we reached a 96% validation accuracy. I saved the model as <code>model1.model</code> in the Model folder, and all data was saved as <code>.json</code> files.</p>
 
+<p>All the code are in the Notebook folder where <code>Bidirectional LSTM.ipynb</code> and <code>Network.ipynb</code>are the neual networks and <code>data preparation.ipynb</code> and <code>Refine the data.ipynb</code> are the data cleaning process </p>
+
 <p>Here is an example of the application of our model: </p>
 <code>>>> Enter your sentence:
 >>> Successful coaches at powerhouses have traditionally stayed put, "lording over fiefdoms until they lost their winning magic or were undone by age or scandal,"
